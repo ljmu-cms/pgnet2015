@@ -1,5 +1,5 @@
-pgnet2015
-=========
+PGNet 2015 - Tutorial Session
+=============================
 
 Title
 -----
