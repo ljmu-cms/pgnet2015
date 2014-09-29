@@ -30,4 +30,4 @@ Who's involved?
 ---------------
 * Paul Fergus
 * Brett Lempereur
-* David Llewellyn-J
+* David Llewellyn-Jones
