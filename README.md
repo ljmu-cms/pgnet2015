@@ -19,6 +19,7 @@ The topics covered are likely to be useful to a cross-section of researchers fro
 Schedule
 --------
 Morning: Linux and R
+
 Afternoon: LaTeX and Python
 
 Equipment
