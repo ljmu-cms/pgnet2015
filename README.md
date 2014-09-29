@@ -28,6 +28,6 @@ Each student will need a computer to work on, recommend to bring their own lapto
 
 Who's involved?
 ---------------
-Paul Fergus
-Brett Lempereur
-David Llewellyn-Jones
+* Paul Fergus
+* Brett Lempereur
+* David Llewellyn-Jones
