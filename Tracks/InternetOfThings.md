@@ -1,6 +1,6 @@
 # Inernet of Things track topics
 
-## "Reduced"
+## "Reduced" IoT topics
 
 1.	Smart homes, smart devices
 2.	Wearable technologies
