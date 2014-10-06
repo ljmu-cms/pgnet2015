@@ -7,7 +7,7 @@
 3.	Smart cities, grid, transport systems
 4.  Data collection and analysis
 5.  Embedded devices
-6.  Microconroller platforms (Arduino, BeagleBoard, RPi, etc.)
+6.  Microcontroller platforms (Arduino, BeagleBoard, RPi, etc.)
 7.  Ad-hoc and mesh networking 
 8.  Sensors, control systems and automation
 
@@ -19,7 +19,7 @@
 4.	Lifelogging
 5.  Data collection and analysis
 6.  Embedded devices
-7.  Microconroller platforms (Arduino, BeagleBoard, RPi, etc.)
+7.  Microcontroller platforms (Arduino, BeagleBoard, RPi, etc.)
 8.  Wireless Sensor, Ad-hoc and mesh networking 
 
 ## Original IoT topics
