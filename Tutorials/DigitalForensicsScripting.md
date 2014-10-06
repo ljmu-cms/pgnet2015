@@ -34,7 +34,7 @@ material.
 ## Equipment
 
 Each student will need a computer to work on.  These computers will require at least a Python 3.4+ interpreter and
-supporting modules that will be determined when material is written.
+supporting modules that will be determined when the problem being solved is agreed with attendees.
 
 ## Who's involved?
 
