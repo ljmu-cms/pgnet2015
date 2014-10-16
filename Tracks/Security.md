@@ -2,16 +2,18 @@
 
 ## Reduced
 
-1.  Policies, contracts and SLAs
-2.	Cyber and cyber-physical security
-3.  Identity and trust management
-4.	Anonymity, authentication, access control
-5.  Intrusion and anomaly detection
-6.  Cloud and data security
-7. 	Security usability 
-8.	Cryptography and protocol security
-9.	Security heuristics and metrics
+1.	Cyber and cyber-physical security
+2.  Identity and trust management
+3.	Anonymity, authentication, access control
+4.  Intrusion and anomaly detection
+5.  Cloud and data security
+6. 	Security usability 
+7.	Cryptography and protocol security
+8.	Security heuristics and metrics
+9.  Policies, contracts and SLAs
 10.	Mobile security, privacy and permissions
+
+If this has to be cut down to 8, I suggested removing 9 and 10.
 
 
 ## Original
